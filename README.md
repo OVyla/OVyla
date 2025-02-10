@@ -11,14 +11,14 @@ Student: Second-year Data Engineering student at UAB. Working as lunch superviso
 #### 💼 Experience
 - Creating personalized assessments for students.
 - Managing social media for the University Alpine Club (@clubalpiuab).
-- Youth leader
+- Youth leader at scout group.
   
 #### 🎯 Goals
 Contribute to projects combining education, data, and technology.
 
 #### 🎵 Music  
-- Play guitar, drums & piano 
-- Occasionally compose music 
+- Play guitar, drums & piano.
+- Occasionally compose music. 
 
 
 ### 📫 Contact Me
