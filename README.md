@@ -16,4 +16,4 @@ Student: Second-year Data Engineering student at UAB. Working as lunch superviso
 Contribute to projects combining education, data, and technology.
 ### 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/oriol-vil%C3%A0-i-s%C3%A0nchez-b6b903243/
-- Email: oriolvila.contact@gmail.com
+- Email: ovilsah@gmail.com
