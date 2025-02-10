@@ -1,21 +1,21 @@
 # Oriol Vilà 👋
 Data Engineering Student | Youth Leader | Passionate about Technology and Education | Music enthusiast
 
-### 👨‍💻 About Me
+#### 👨‍💻 About Me
 Student: Second-year Data Engineering student at UAB. Working as lunch supervisor at "Escola Thau Sant Cugat" and Youth Leader at Scouting group "Agrupament Escolta Lola Anglada". I also manage the social media account of University Alpine Club.
 ### 🌟 Highlighted Projects
 - Video Manager Project: Development of an application with classes for video management, including search and playback features.
 - Program Optimization in C++: Performance analysis using methods like Direct Evaluation and Horner's Method.
 
-### 💼 Experience
+#### 💼 Experience
 - Creating personalized assessments for students.
 - Managing social media for the University Alpine Club (@clubalpiuab).
 - Youth leader
   
-### 🎯 Goals
+#### 🎯 Goals
 Contribute to projects combining education, data, and technology.
 
-### 🎵 Music  
+#### 🎵 Music  
 - Play guitar, drums & piano 
 - Occasionally compose music 
 
