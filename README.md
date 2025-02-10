@@ -1,5 +1,5 @@
 # Oriol Vilà 👋
-Data Engineering Student | Youth Leader | Passionate about Technology and Education
+Data Engineering Student | Youth Leader | Passionate about Technology and Education | Music enthusiast
 
 ### 👨‍💻 About Me
 Student: Second-year Data Engineering student at UAB. Working as lunch supervisor at "Escola Thau Sant Cugat" and Youth Leader at Scouting group "Agrupament Escolta Lola Anglada". I also manage the social media account of University Alpine Club.
@@ -14,6 +14,12 @@ Student: Second-year Data Engineering student at UAB. Working as lunch superviso
   
 ### 🎯 Goals
 Contribute to projects combining education, data, and technology.
+
+### 🎵 Music  
+- Play guitar, drums & piano 
+- Occasionally compose music 
+
+
 ### 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/oriol-vil%C3%A0-i-s%C3%A0nchez-b6b903243/
 - Email: ovilsah@gmail.com
